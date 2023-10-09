@@ -2,15 +2,15 @@
 <h3 align="left"  style="margin-top: '20px'; margin-bottom:'45px';">A passionate frontend and backend developer from Pakistan</h3>
 <br/><br/>
 
-   - 🔭 I’m currently working on [Quiz App](https://github.com/codewithumarrr/quizapp_react)
+  🔭 I’m currently working on [Quiz App](https://github.com/codewithumarrr/quizapp_react)
 
-   - 🌱 I’m currently learning **Nestjs, Graphql**
+  🌱 I’m currently learning **Nestjs, Graphql**
 
-   - 💬 Ask me about **React, Redux, Nodejs**
+  💬 Ask me about **React, Redux, Nodejs**
 
-   - 📫 How to reach me **theumar95@gmail.com**
+  📫 How to reach me **theumar95@gmail.com**
 
-   - ⚡ Fun fact **I am quick learner**
+  ⚡ Fun fact **I am quick learner**
   <br/><br/>
 <h3 align="left" style="margin-top: '35px';">Connect with me:</h3>
 <p align="left">
