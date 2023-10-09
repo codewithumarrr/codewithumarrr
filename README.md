@@ -1,5 +1,4 @@
 <h1 align="lett">Hi 👋, I'm Umar Fayaz</h1>
-<br/>
 <h3 align="left"  style="margin-top: '20px'; margin-bottom:'45px';">A passionate frontend and backend developer from Pakistan</h3>
 <br/><br/>
 - 🔭 I’m currently working on [Quiz App](https://github.com/codewithumarrr/quizapp_react)
