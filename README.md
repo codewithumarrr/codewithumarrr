@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Umar Fayaz</h1>
-<h3 align="center">A passionate frontend and backend developer from Pakistan</h3>
+<h1 align="lett">Hi 👋, I'm Umar Fayaz</h1>
+<h3 align="left"  style="margin-top: '20px'; margin-bottom:'25px';">A passionate frontend and backend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Quiz App](https://github.com/codewithumarrr/quizapp_react)
 
@@ -10,8 +10,7 @@
 - 📫 How to reach me **theumar95@gmail.com**
 
 - ⚡ Fun fact **I am quick learner**
-<br/><br/>
-<h3 align="left" style="margin-top: '25px';">Connect with me:</h3>
+<h3 align="left" style="margin-top: '35px';">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codewithumarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewithumarrr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umar95global" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umar95global" height="30" width="40" /></a>
