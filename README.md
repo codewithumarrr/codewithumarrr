@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am quick learner**
 <br/><br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="margin-top: '25px';">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codewithumarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewithumarrr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umar95global" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umar95global" height="30" width="40" /></a>
