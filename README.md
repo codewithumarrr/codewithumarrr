@@ -2,11 +2,11 @@
 <h3 align="left">A passionate frontend and backend developer from Pakistan</h3>
 <br/>
 
-🔭 I’m currently working on [Quiz App](https://github.com/codewithumarrr/quizapp_react)
+🔭 I’m currently working on [BuildWare SaaS MobileApp & WebApp]
 
-🌱 I’m currently learning **Nestjs, Graphql**
+🌱 I’m currently learning **DotNet, Graphql**
 
-💬 Ask me about **React, Redux, Nodejs**
+💬 Ask me about **React, Redux, Nodejs Nextjs, NestJs**
 
 📫 How to reach me **theumar95@gmail.com**
 
