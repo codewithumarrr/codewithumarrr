@@ -1,5 +1,5 @@
 <h1 align="lett">Hi 👋, I'm Umar Fayaz</h1>
-<h3 align="left">A passionate frontend and backend developer from Pakistan</h3>
+<h3 align="left">A passionate Software Engineer & frontend and backend developer from Pakistan</h3>
 <br/>
 
 🔭 I’m currently working on [BuildWare SaaS MobileApp & WebApp]
