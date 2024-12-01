@@ -8,7 +8,7 @@
 
 💬 Ask me about **React, Redux, Nodejs Nextjs, NestJs**
 
-📫 How to reach me **theumar95@gmail.com**
+📫 How to reach me **buildwithumar@gmail.com**
 
 ⚡ Fun fact **I am quick learner**
   <br/><br/>
